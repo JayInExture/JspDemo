@@ -42,4 +42,4 @@ FormServlet 2024-04-22 18:56:47,831 -  [destroy] -(INFO) Database connection clo
 DatabaseInitializer 2024-04-22 18:56:55,902 -  [<init>] -(INFO) Database connection initialized successfully. 
 FormServlet 2024-04-22 18:57:04,852 -  [destroy] -(INFO) Database connection closed successfully. 
 DatabaseInitializer 2024-04-22 18:57:09,448 -  [<init>] -(INFO) Database connection initialized successfully. 
-DeleteUser 2024-04-22 18:57:25,404 -  [doGet] -(INFO) Data with ID 21 deleted successfully 
+DeleteUser 2024-04-22 18:57:25,404 -  [doGet] -(INFO) Data with ID 21 deleted successfully
